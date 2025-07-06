@@ -1,7 +1,3 @@
-<img align="right" height="74" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExanRiandmdm1hNXhhN2ljZGZpa3lmM2FsODNid2VuMW4za2p2N3R2dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SvFocn0wNMx0iv2rYz/giphy.gif"  />
-
-###
-
 <h1 align="left">Hello world, i'm José Zúñiga👋</h1>
 
 ###
